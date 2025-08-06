@@ -1,0 +1,11 @@
+# FastAPI framework
+fastapi==0.111.0
+
+# Server for running FastAPI
+uvicorn==0.29.0
+
+# Validation and serialization
+pydantic==2.6.4
+
+# HTTP requests (used in services)
+requests==2.31.0
